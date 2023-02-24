@@ -86,8 +86,6 @@
 <img style="padding-right:1rem" align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
 <img style="padding-right:1rem" align="left" alt="PowerShell" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
-
-<img style="padding-right:1rem" align="left" alt="Kali" width="35px" src="https://i.stack.imgur.com/Gns38.png" />
  
 <img style="padding-right:1rem" align="left" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <br/>
@@ -104,5 +102,3 @@
 <br/>
 <br/>
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="150px" src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress"/>
-</p>
