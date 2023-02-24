@@ -1,27 +1,26 @@
 <p>
-  <h1 align="center"><b>Hello there, It's <a href="https://www.vamshiprasad.ml/">Vamshi</a> here! 👋</b></h1>
+  <h1 align="center"><b>Hello there, It's <a href="https://anirudhnbharadwaj.github.io/">Anirudh</a> here! 👋</b></h1>
 </p>
 
 <p>
-  <h2 align="center"><b>Flutter Engineer</b></h2>
+  <h2 align="center"><b>An Electronics and Communication Undergrad</b></h2>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vamshi-prasad-633503112/">
+<a href="https://www.linkedin.com/in/anirudh-n-bharadwaj-288116214/">
 <img alt="" width="50px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="max-width:100%">
 </a>
-<a href="https://github.com/BullsEye34"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="" width="50px" style="max-width:100%" /></a>
+<a href="https://github.com/anirudhnbharadwaj"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="" width="50px" style="max-width:100%" /></a>
 </p>
 
 <br>
 
 <!-- <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
-- I'm a professional Flutter Developer working at Digital Trons
-- I was a Student from AMC Engineering College
-- I’m also a professional Freelance Flutter Engineer.
-- I’m having about 3 years of work experience, as employee, freelancer and intern.
-- I’m currently looking forward to becoming an expert in Express JS, Networking, and Graphics.
+- I'm a Student Intern at Cyclops MedTech Pvt. Ltd.
+- I'm a undergrad student at S J B Institute of Technology.
+- I’m having about 6 months experience as an Intern.
+- I’m currently looking forward to becoming an expert Machine Learning, Computer Vision and Data Science.
 - Ask me about anything, I am happy to help.
 
 <br>
