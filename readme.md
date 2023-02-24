@@ -53,11 +53,11 @@
 <br/>
 
 <p>
-<img style="padding-right:1rem" align="left" alt="Flutter" width="25px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />
+<img style="padding-right:1rem" align="left" alt="Flutter" width="35px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />
 
-<img style="padding-right:1rem" align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img style="padding-right:1rem" align="left" alt="React" width="35px" src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png" />
 
-<img style="padding-right:1rem" align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img style="padding-right:1rem" align="left" alt="Node.js" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
 
 <img style="padding-right:1rem" align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
