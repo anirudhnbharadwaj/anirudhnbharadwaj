@@ -35,6 +35,10 @@
 
 <img style="padding-right:1rem" align="left" alt="C++" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
   
+<img style="padding-right:1rem" align="left" alt="MATLAB" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" />
+
+
+  
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
