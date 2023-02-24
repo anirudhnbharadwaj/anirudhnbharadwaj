@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h2 align="center"><b>An Electronics and Communication Undergrad</b></h2>
+  <h2 align="center"><b>Electronics and Communication Undergrad</b></h2>
 </p>
 
 <p align="center">
@@ -31,22 +31,14 @@
 <p>
 
 <img style="padding-right:1rem" align="left" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  
 
 <img style="padding-right:1rem" align="left" alt="C++" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
   
 <img style="padding-right:1rem" align="left" alt="MATLAB" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" />
 
-
-  
-
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img style="padding-right:1rem"  align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  
-  
-  
-  
   
 </p>
 
@@ -61,7 +53,7 @@
 <br/>
 
 <p>
-<img style="padding-right:1rem" align="left" alt="Flutter" width="25px" src="https://cdnlogo.com/logos/f/30/flutter.svg" />
+<img style="padding-right:1rem" align="left" alt="Flutter" width="25px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />
 
 <img style="padding-right:1rem" align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
