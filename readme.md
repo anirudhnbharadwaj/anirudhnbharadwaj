@@ -29,19 +29,16 @@
 <br>
 
 <p>
-<img style="padding-right:1rem" align="left" alt="Dart" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img style="padding-right:1rem"  align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img  style="padding-right:1rem" align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img style="padding-right:1rem" align="left" alt="C++" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
 <img style="padding-right:1rem" align="left" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img style="padding-right:1rem" align="left" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-1.png" />
+  
 </p>
 
 <br/>
