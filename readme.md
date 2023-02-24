@@ -53,44 +53,46 @@
 <br/>
 
 <p>
-<img style="padding-right:1rem" align="left" alt="Flutter" width="35px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />
+<img style="padding-right:1rem" align="left" alt="Numpy" width="35px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />
 
-<img style="padding-right:1rem" align="left" alt="React" width="35px" src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png" />
+<img style="padding-right:1rem" align="left" alt="Pandas" width="35px" src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png" />
 
-<img style="padding-right:1rem" align="left" alt="Node.js" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+<img style="padding-right:1rem" align="left" alt="Matplotlib" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
 
-<img style="padding-right:1rem" align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img style="padding-right:1rem" align="left" alt="OpenCV" width="35px" src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.svg?sanitize=true" />
 
+<img style="padding-right:1rem" align="left" alt="TensorFlow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
+
+<br/>
+<br/>
+<br/>
+
+<img style="padding-right:1rem" align="left" alt="Scikit" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+
+<img style="padding-right:1rem" align="left" alt="VSCode" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+
+<img style="padding-right:1rem" align="left" alt="PyCharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
+
+<img style="padding-right:1rem" align="left" alt="Atom" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" />  
+  
+<img style="padding-right:1rem" align="left" alt="Jupyter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" /> 
+  
+<br/>
+<br/>
+<br/>
+
+<img style="padding-right:1rem" align="left" alt="AWS Lambda" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" />
+  
 <img style="padding-right:1rem" align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
+<img style="padding-right:1rem" align="left" alt="PowerShell" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
+
+<img style="padding-right:1rem" align="left" alt="Kali" width="35px" src="https://i.stack.imgur.com/Gns38.png" />
+ 
+<img style="padding-right:1rem" align="left" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <br/>
 <br/>
 <br/>
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://avatars.githubusercontent.com/u/11260967?s=200&v=4" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="55px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://github.com/npm/logos/raw/master/npm%20square/n-large.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
-
-<br/>
-<br/>
-<br/>
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="55px" src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
 
 <!-- <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> -->
 
