@@ -2,15 +2,10 @@
   <h1 align="center"><b>Hello there, It's <a href="https://anirudhnbharadwaj.github.io/">Anirudh</a> here! 👋</b></h1>
 </p>
 
-<p>
-  <h2 align="center"><b>Electronics and Communication Undergrad</b></h2>
-</p>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/anirudh-n-bharadwaj-288116214/">
-<img alt="" width="50px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="max-width:100%">
-</a>
-<a href="https://github.com/anirudhnbharadwaj"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="" width="50px" style="max-width:100%" /></a>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/anirudhnbharadwaj/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhnbharadwaj-288116214/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anirudhbharadwaj13@gmail.com)
 </p>
 
 <br>
