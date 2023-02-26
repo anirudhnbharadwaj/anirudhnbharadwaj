@@ -20,7 +20,7 @@
 
 <br>
 
-## Languages:
+### 🔤 Languages:
 <br>
 
 <p>
@@ -41,7 +41,7 @@
 <br/> 
 <br/>
 
-## Tools, Libraries and Software:
+### 🧰 Tools, Libraries and Software:
 
 <br/>
 
@@ -90,6 +90,6 @@
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=anirudhnbharadwaj&show_icons=true&theme=radical&line_height=33)
 
-### Credits
+### ©️ Credits
 
 - Well, it's a good thing to give credits to creators, almost all the content templates were 'stolen' (not really) from https://github.com/kautukkundan/Awesome-Profile-README-templates , a big THANK YOU!
