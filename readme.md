@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello, It's <a href="https://anirudhnbharadwaj.github.io/">Anirudh</a> here!### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></b></h1>
+  <h1 align="center"><b>Hello, It's <a href="https://anirudhnbharadwaj.github.io/">Anirudh</a> here!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></b></h1>
 </p>
 
 
