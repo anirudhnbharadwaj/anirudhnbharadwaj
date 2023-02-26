@@ -38,11 +38,10 @@
 </p>
 
 <br/>
-<br/>
-<br/>  
+<br/> 
 <br/>
 
-## Tools and Software:
+## Tools, Libraries and Software:
 
 <br/>
 
