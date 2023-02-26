@@ -2,11 +2,11 @@
   <h1 align="center"><b>Hello there, It's <a href="https://anirudhnbharadwaj.github.io/">Anirudh</a> here! 👋</b></h1>
 </p>
 
-align="center"
+< p align="center">
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/anirudhnbharadwaj/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhnbharadwaj-288116214/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anirudhbharadwaj13@gmail.com)
-
+</p>
 
 <br>
 
