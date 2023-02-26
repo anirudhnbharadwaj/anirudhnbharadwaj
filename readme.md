@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello there, It's <a href="https://anirudhnbharadwaj.github.io/">Anirudh</a> here! 👋</b></h1>
+  <h1 align="center"><b>Hello, It's <a href="https://anirudhnbharadwaj.github.io/">Anirudh</a> here!### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></b></h1>
 </p>
 
 
@@ -12,10 +12,10 @@
 
 <!-- <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
-- I'm a Student Intern at Cyclops MedTech Pvt. Ltd.
-- I'm a undergrad student at S J B Institute of Technology.
-- I’m having about 6 months experience as an Intern.
-- I’m currently looking forward to becoming an expert Machine Learning, Computer Vision and Data Science.
+- Currently working as a student intern at Cyclops MedTech Pvt. Ltd.
+- I'm an undergrad student at S J B Institute of Technology pursuing a degree in Electronics and Communication.
+- I have gained six months of experience as an intern.
+- I aspire to develop a high level of proficiency in the fields of Machine Learning, Computer Vision, and Data Science.
 - Ask me about anything, I am happy to help.
 
 <br>
