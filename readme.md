@@ -13,7 +13,7 @@
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
  
 - Currently working as a student intern at [**Cyclops MedTech**](https://www.cyclopsmedtech.com/)
-- I'm an undergrad student at S J B Institute of Technology pursuing a degree in Electronics and Communication.
+- Graduated from S J B Institute of Technology with a degree in Electronics and Communication Engineering.
 - I have gained six months of experience as an intern.
 - I aspire to develop a high level of proficiency in the fields of Machine Learning, Computer Vision, and Data Science.
 - Ask me about anything, I am happy to help.
