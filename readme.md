@@ -12,10 +12,10 @@
 
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
  
-- Currently working as a student intern at [**Cyclops MedTech**](https://www.cyclopsmedtech.com/)
+- Currently working as a AI&CV Project Trainee at [**Cyclops MedTech**](https://www.cyclopsmedtech.com/)
 - Graduated from S J B Institute of Technology with a degree in Electronics and Communication Engineering.
-- I have gained six months of experience as an intern.
-- I aspire to develop a high level of proficiency in the fields of Machine Learning, Computer Vision, and Data Science.
+- I have gained six months of experience as an intern and 4 months as a professional.
+- I aspire to develop a high level of proficiency in the fields of Artificial Imtelligence, Computer Vision, and Image Analysis.
 - Ask me about anything, I am happy to help.
 
 <br>
