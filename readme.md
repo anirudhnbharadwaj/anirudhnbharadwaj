@@ -85,9 +85,9 @@
 <br/>
 </p>
 
-### 🏆 Github Status
+<!--### 🏆 Github Status
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=anirudhnbharadwaj&show_icons=true&theme=radical&line_height=33)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=anirudhnbharadwaj&show_icons=true&theme=radical&line_height=33)-->
 
 ### ©️ Credits
 
