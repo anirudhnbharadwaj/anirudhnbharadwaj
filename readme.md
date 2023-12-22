@@ -15,7 +15,7 @@
 - Currently working as a Computer Vision Engineer at [**Cyclops MedTech**](https://www.cyclopsmedtech.com/)
 - Graduated from S J B Institute of Technology with a degree in Electronics and Communication Engineering.
 - I have gained six months of experience as an intern and 6 months as a professional.
-- I aspire to develop a high level of proficiency in the fields of Artificial Imtelligence, Computer Vision, and Image Analysis.
+- I aspire to develop a high level of proficiency in the fields of Computer Vision,Image Analysis and Artificial Intelligence.
 - Ask me about anything, I am happy to help.
 
 <br>
