@@ -12,9 +12,8 @@
 
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
  
-- Currently working as a Computer Vision Engineer at [**Cyclops MedTech**](https://www.cyclopsmedtech.com/)
+- Currently Freelancing as Computer Vision Consultant.
 - Graduated from S J B Institute of Technology with a degree in Electronics and Communication Engineering.
-- I have gained six months of experience as an intern and 6 months as a professional.
 - I aspire to develop a high level of proficiency in the fields of Computer Vision,Image Analysis and Artificial Intelligence.
 - Ask me about anything, I am happy to help.
 
