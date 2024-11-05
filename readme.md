@@ -32,7 +32,7 @@
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 
-<img style="padding-right:1rem"  align="left" alt="CSS3" width="35px" src="https://en.wikipedia.org/wiki/File:Nextjs-logo.svg"/>
+<img style="padding-right:1rem"  align="left" alt="Next.JS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1920px-Nextjs-logo.svg.png"/>
     
 </p>
 <br/>
