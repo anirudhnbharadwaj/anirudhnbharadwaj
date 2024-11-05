@@ -32,7 +32,7 @@
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 
-<img style="padding-right:1rem"  align="left" alt="CSS3" width="35px" src="![image](https://github.com/user-attachments/assets/2043393f-cc79-411a-b2c2-f72b4b3c605d)
+<img style="padding-right:1rem"  align="left" alt="CSS3" width="35px" src="![image](https://github.com/user-attachments/assets/2043393f-cc79-411a-b2c2-f72b4b3c605d)"
 " />
     
 </p>
