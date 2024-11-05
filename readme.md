@@ -29,6 +29,12 @@
 <img style="padding-right:1rem" align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
   
 <img style="padding-right:1rem" align="left" alt="MATLAB" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" />
+
+<img style="padding-right:1rem" align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/260px-Typescript.svg.png?20230616215448" />
+
+<img style="padding-right:1rem" align="left" alt="TailWind CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" />
+
+
     
 </p>
 <br/>
@@ -48,7 +54,7 @@
 
 <img style="padding-right:1rem" align="left" alt="OpenCV" width="35px" src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.svg?sanitize=true" />
 
-<img style="padding-right:1rem" align="left" alt="TensorFlow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pytorch-svgrepo-com.svg/600px-Pytorch-svgrepo-com.svg.png?20230427111850" />
+<img style="padding-right:1rem" align="left" alt="PyTorch" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pytorch-svgrepo-com.svg/600px-Pytorch-svgrepo-com.svg.png?20230427111850" />
 
 <br/>
 <br/>
@@ -68,13 +74,15 @@
 <br/>
 <br/>
 
-<img style="padding-right:1rem" align="left" alt="AWS Lambda" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" />
   
 <img style="padding-right:1rem" align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
 <img style="padding-right:1rem" align="left" alt="PowerShell" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
  
 <img style="padding-right:1rem" align="left" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+
+<img style="padding-right:1rem" align="left" alt="Archlinux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/256px-Arch_Linux_%22Crystal%22_icon.svg.png?20230812231250" />
+
 <br/>
 <br/>
 <br/>
