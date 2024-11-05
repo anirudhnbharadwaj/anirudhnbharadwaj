@@ -29,10 +29,6 @@
 <img style="padding-right:1rem" align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
   
 <img style="padding-right:1rem" align="left" alt="MATLAB" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" />
-
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
-
-<img style="padding-right:1rem"  align="left" alt="Next.JS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1920px-Nextjs-logo.svg.png"/>
     
 </p>
 <br/>
@@ -52,7 +48,7 @@
 
 <img style="padding-right:1rem" align="left" alt="OpenCV" width="35px" src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.svg?sanitize=true" />
 
-<img style="padding-right:1rem" align="left" alt="TensorFlow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
+<img style="padding-right:1rem" align="left" alt="TensorFlow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pytorch-svgrepo-com.svg/600px-Pytorch-svgrepo-com.svg.png?20230427111850" />
 
 <br/>
 <br/>
