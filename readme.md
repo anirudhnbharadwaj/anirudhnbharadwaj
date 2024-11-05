@@ -12,9 +12,9 @@
 
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
  
-- Currently working as a Freelance - Computer Vision Consultant.
-- Graduated from S J B Institute of Technology with a degree in Electronics and Communication Engineering.
-- I aspire to develop a high level of proficiency in the fields of Computer Vision,Image Analysis and Artificial Intelligence.
+- Currently working as a Computer Vision Engineer @ Equidor mEdtech LLP.
+- Undergrad from S J B Institute of Technology with a degree in Electronics and Communication Engineering.
+- I aspire to develop a high level of proficiency in the fields of Computer Vision, Image Analysis and Artificial Intelligence.
 - Ask me about anything, I am happy to help.
 
 <br>
@@ -30,9 +30,9 @@
   
 <img style="padding-right:1rem" align="left" alt="MATLAB" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" />
 
-<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img style="padding-right:1rem" align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 
-<img style="padding-right:1rem"  align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img style="padding-right:1rem"  align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     
 </p>
 <br/>
