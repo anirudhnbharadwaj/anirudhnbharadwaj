@@ -70,7 +70,7 @@
 
 <img style="padding-right:1rem" align="left" alt="Scipy" width="35px" src="https://scipy.org/images/logo.svg" /> 
 
-<img style="padding-right:1rem" align="left" alt="PyQt" width="35px" src="https://en.wikipedia.org/wiki/File:Python_and_Qt.svg" />
+<img style="padding-right:1rem" align="left" alt="PyQt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg" />
 
 <img style="padding-right:1rem" align="left" alt="VSCode" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
   
