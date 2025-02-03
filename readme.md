@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-<img style="padding-right:1rem" align="left" alt="Pandas" width="35px" src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png" />
+<img style="padding-right:1rem" align="left" alt="Pandas" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
 
 <img style="padding-right:1rem" align="left" alt="Scikit" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
