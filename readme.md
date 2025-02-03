@@ -30,12 +30,7 @@
   
 <img style="padding-right:1rem" align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
-<img style="padding-right:1rem" align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/260px-Typescript.svg.png?20230616215448" />
 
-<img style="padding-right:1rem" align="left" alt="TailWind CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" />
-
-
-    
 </p>
 <br/>
 <br/> 
