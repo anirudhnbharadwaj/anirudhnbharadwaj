@@ -11,11 +11,11 @@
 <br>
 
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
- 
-- Currently working as a Computer Vision Engineer @ Equidor mEdtech LLP.
-- Undergrad from S J B Institute of Technology with a degree in Electronics and Communication Engineering.
+
+- Pursuing Graduate Studies @ University of Central Florida, Orlando, FL - MSCV.
+- Previouisly was Computer Vision Engineer at Equidor Medtech LLP, Bangalore, India.
+- Undergrad from Visvesvaraya Technological University with a degree in Electronics and Communication Engineering.
 - I aspire to develop a high level of proficiency in the fields of Computer Vision, Image Analysis and Artificial Intelligence.
-- Ask me about anything, I am happy to help.
 
 <br>
 
@@ -26,13 +26,13 @@
 
 <img style="padding-right:1rem" align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img style="padding-right:1rem" align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-  
 <img style="padding-right:1rem" align="left" alt="MATLAB" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" />
+  
+<img style="padding-right:1rem" align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
-<img style="padding-right:1rem" align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/260px-Typescript.svg.png?20230616215448" />
+//<img style="padding-right:1rem" align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/260px-Typescript.svg.png?20230616215448" />
 
-<img style="padding-right:1rem" align="left" alt="TailWind CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" />
+//<img style="padding-right:1rem" align="left" alt="TailWind CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" />
 
 
     
