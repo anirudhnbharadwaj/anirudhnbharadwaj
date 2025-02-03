@@ -30,9 +30,9 @@
   
 <img style="padding-right:1rem" align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
-//<img style="padding-right:1rem" align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/260px-Typescript.svg.png?20230616215448" />
+<img style="padding-right:1rem" align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/260px-Typescript.svg.png?20230616215448" />
 
-//<img style="padding-right:1rem" align="left" alt="TailWind CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" />
+<img style="padding-right:1rem" align="left" alt="TailWind CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" />
 
 
     
@@ -48,33 +48,40 @@
 <p>
 <img style="padding-right:1rem" align="left" alt="Numpy" width="35px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />
 
-<img style="padding-right:1rem" align="left" alt="Pandas" width="35px" src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png" />
-
-<img style="padding-right:1rem" align="left" alt="Matplotlib" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+<img style="padding-right:1rem" align="left" alt="PyTorch" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pytorch-svgrepo-com.svg/600px-Pytorch-svgrepo-com.svg.png?20230427111850" />
 
 <img style="padding-right:1rem" align="left" alt="OpenCV" width="35px" src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.svg?sanitize=true" />
 
-<img style="padding-right:1rem" align="left" alt="PyTorch" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pytorch-svgrepo-com.svg/600px-Pytorch-svgrepo-com.svg.png?20230427111850" />
+<img style="padding-right:1rem" align="left" alt="Matplotlib" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+
+<img style="padding-right:1rem" align="left" alt="NumPy" width="35px" src="https://numpy.org/images/logo.svg" /> 
+
+
+
+
 
 <br/>
 <br/>
 <br/>
+
+<img style="padding-right:1rem" align="left" alt="Pandas" width="35px" src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png" />
 
 <img style="padding-right:1rem" align="left" alt="Scikit" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
+<img style="padding-right:1rem" align="left" alt="Scipy" width="35px" src="https://scipy.org/images/logo.svg" /> 
+
+<img style="padding-right:1rem" align="left" alt="PyQt" width="35px" src="https://en.wikipedia.org/wiki/File:Python_and_Qt.svg" />
+
 <img style="padding-right:1rem" align="left" alt="VSCode" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-
-<img style="padding-right:1rem" align="left" alt="PyCharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
-
-<img style="padding-right:1rem" align="left" alt="Atom" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" />  
   
+
+  
+<br/>
+<br/>
+<br/>
+
 <img style="padding-right:1rem" align="left" alt="Jupyter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" /> 
-  
-<br/>
-<br/>
-<br/>
 
-  
 <img style="padding-right:1rem" align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
 <img style="padding-right:1rem" align="left" alt="PowerShell" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
